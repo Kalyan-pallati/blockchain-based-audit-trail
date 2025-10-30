@@ -22,9 +22,8 @@ This project ensures that every user action or transaction is recorded in an imm
 |------------|-------------|
 | **Frontend** | HTML, CSS, JavaScript, JSP |
 | **Backend** | Java EE (Servlets, JSP), Maven |
-| **Blockchain** | Custom lightweight blockchain implementation in Java |
-| **Database** | MySQL / Neo4j (for user and audit storage) |
-| **Server** | Apache Tomcat |
+| **Blockchain** | Custom lightweight blockchain implementation in Java(Using Ethereum or Local Ganauche Instance) |
+| **Server** | Jetty or Tomcat |
 | **Version Control** | Git & GitHub |
 
 ---
